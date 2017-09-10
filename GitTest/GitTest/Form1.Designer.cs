@@ -16,7 +16,7 @@
             if (disposing && (components != null))
             {
                 components.Dispose();
-
+                //ADD BY ZJF 20170910
             }
             base.Dispose(disposing);
         }
